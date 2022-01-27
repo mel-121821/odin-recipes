@@ -1,0 +1,26 @@
+h1,
+h2,
+h4 {
+    color: rgba(206, 76, 76, 0.699);
+    background-color: rgba(241, 218, 187, 0.507);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+li,
+p {
+    color: rgb(206, 76, 76);
+    font-family: Arial, Helvetica, sans-serif;
+}
