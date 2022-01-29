@@ -1,11 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(80, 13, 1, 0.87);
+} 
+
 h1,
 h2,
 h4 {
-    color: rgba(80, 13, 1, 0.87);
     background-color: rgba(252, 217, 172, 0.801);
     font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
 }
+    
 
 h1 {
     font-size: 50px;
@@ -21,5 +25,4 @@ img {
 li,
 p {
     color: rgb(80, 13, 1);
-    font-family: Arial, Helvetica, sans-serif
 }
